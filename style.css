@@ -1,0 +1,37 @@
+h1{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: white;
+   background-color: black;
+   text-align: center;
+}
+h1:hover{
+    color: burlywood;
+    cursor: pointer;
+    transform: rotateY(360deg);
+    transition: 2s ease;
+}
+img{
+    height: 500px;
+    width: 800px;
+    padding-left: 280px;
+}
+body{
+    background-color: black;
+}
+
+
+p{
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px   white;
+}
+footer{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px 1px white;
+}
+footer:hover{
+    color: burlywood;
+    cursor: pointer;
+}
